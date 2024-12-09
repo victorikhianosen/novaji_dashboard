@@ -12,6 +12,6 @@ class AuthController extends Controller
 
     public function register()
     {
-        return 'register';
+        return 'Ok';
     }
 }
