@@ -14,4 +14,9 @@ class AuthController extends Controller
     {
         return 'Ok';
     }
+
+    public function Testing()
+    {
+        return 'Testing Code';
+    }
 }
